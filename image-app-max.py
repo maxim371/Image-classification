@@ -1,3 +1,4 @@
+#Install libraries and dependencies
 import streamlit as st
 import numpy as np
 from skimage.io import imread
