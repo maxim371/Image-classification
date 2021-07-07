@@ -1,4 +1,5 @@
 #Install libraries and dependencies
+#Getting some issues with scikit-learn and pickle
 import streamlit as st
 import numpy as np
 from skimage.io import imread
