@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.18.5"
+matplotlib = "==3.2.2"
+pyngrok = "==4.1.1"
+bing-image-downloader = "==1.0.4"
+scikit-image = "*"
+scikit-learn = "*"
+streamlit = "==0.70.0"
+Pillow = "==8.0.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
