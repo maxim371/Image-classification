@@ -1,5 +1,7 @@
 # Image-classification
-Image classification project using support vector machine. This is a multivariate classification project. This is deployed to Heroku. Upload your image and get predictions with probability. 
+Image classification project using support vector machine. This is a multivariate classification project which is deployed to Heroku. Upload your image and get predictions with probability. 
+# Deployment
+[Link to Deployed App](https://image-app-max.herokuapp.com/)
 # Motivation
 This is a classification project. The goal was to build a simple dashboard that anyone can play with to determine whether the image uploaded is rugby ball, sunflower or ice cream cone.
 # Installation
